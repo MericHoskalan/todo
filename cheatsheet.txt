@@ -1,0 +1,32 @@
+justify-content
+flex-start: Öğeleri flexbox container'ın sol tarafına hizalar.
+flex-end: Öğeleri flexbox container'ın sağ tarafına hizalar.
+center: Öğeleri flexbox container'ın ortasına hizalar.
+space-between: Öğeler eşit aralıklarla yatay şekilde yayılır
+space-around: Öğeler etraflarında eşit aralıklar olacak şekilde yatay şekilde yayılır.
+
+align-items
+flex-start: Öğeleri flexbox container'ın tepesine hizalar
+flex-end: Öğeleri flexbox container'ın aşağısına hizalar
+center: Öğeleri flexbox container'ın dikey ortasına hizalar
+baseline: Öğeleri flexbox container'ın yazı referans çizgisine(baseline) hizalar.
+stretch: Öğeler flexbox container boyunca uzarlar
+
+flex-direction
+row: Öğeler yazı yönü ile aynı yönde yerleştirilir.
+row-reverse: Öğeler yazı yönünün tersi yönünde yerleştirilir.
+column: Öğeler yukarıdan aşağıya doğru yerleştirilir.
+column-reverse: Öğeler aşağıdan yukarıya doğru yerleştirilir.
+
+flex-warp
+nowrap: Tüm öğeler tek satıra sığar.
+wrap: Öğeler satırlara bölünür.
+wrap-reverse: Öğeler satırlara ters sırada bölünür.
+
+align-content
+flex-start: Satırlar flex container'ın tepesinde toplanır.
+flex-end: Satırlar flex container'ın aşağısında toplanır.
+center: Satırlar flex container'ın dikey ortasında toplanır.
+space-between: Satırlar aralarında eşit boşluk kalacak şekilde yayılırlar.
+space-around: Satırlar etraflarında eşit boşluk kalacak şekilde yayılırlar.
+stretch: Satırlar flex container'ı kaplamak için uzarlar.
